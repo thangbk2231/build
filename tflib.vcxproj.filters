@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\cube_measurement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\cube_measurer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\pcl_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\plane_segmentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\tfl_cube_measurer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\tfl_pointcloudxyz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\tfl_pointxyz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\src\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\cube_measurement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\cube_measurer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\pcl_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\plane_segmentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\tfl_cube_measurer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\tfl_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\include\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hthang\Desktop\TOF\Cube-Measurement-master\Cube-Measurement-makeDLL_ChangeName-v3_0304_2\Cube-Measurement-makeDLL_ChangeName-v3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A4F977EC-3744-3B1B-8E26-5EC9DADD2549}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A475EA83-FF65-3F91-B462-FECD94BF1A21}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
